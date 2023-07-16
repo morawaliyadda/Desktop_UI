@@ -1,0 +1,234 @@
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+C:\Users\ACER\Desktop\3 SEMESTER\GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+C:\Users\wijeb\Desktop\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Wpf_Dekstop_UIfdcfhbjhknjkm\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+D:\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+C:\Users\ACER\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+C:\Users\Sithara\Desktop\new (2)\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+C:\Users\Sithara\Desktop\new\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+C:\Users\Sithara\OneDrive\Desktop\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.exe
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.deps.json
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.runtimeconfig.json
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.AssemblyReference.cache
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.g.cs
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\App.g.cs
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.cache
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI_MarkupCompile.lref
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\AddWindow.baml
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\MainWindow.baml
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.g.resources
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfoInputs.cache
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.AssemblyInfo.cs
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CoreCompileInputs.cache
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.csproj.CopyComplete
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.dll
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\refint\Wpf_Dekstop_UI.dll
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.pdb
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\Wpf_Dekstop_UI.genruntimeconfig.cache
+E:\MyProject\ASS1_GUI\Wpf_Dekstop_UI\Wpf_Dekstop_UI\obj\Debug\net6.0-windows\ref\Wpf_Dekstop_UI.dll
