@@ -5,14 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_Dekstop_UI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="700" Width="700">
-    
+        WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Title="MainWindow" Height="520" Width="900" BorderBrush="Black">
+
     <Window.Resources>
         <Style TargetType="Button" x:Key="RoundedButtonStyle">
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="{x:Type Button}">
-                        <Border x:Name="border" CornerRadius="18" Background="DarkCyan" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                        <Border x:Name="border" CornerRadius="18" Background="YellowGreen" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
                             <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
                         </Border>
                         <ControlTemplate.Triggers>
@@ -21,79 +22,139 @@
                             </Trigger>
                             <Trigger Property="IsMouseOver" Value="true">
                                 <Setter Property="Background" TargetName="border" Value="#EAB01E"/>
-                                <Setter Property="BorderBrush" TargetName="border" Value="#F1CA68"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="brown"/>
                             </Trigger>
                             <Trigger Property="IsPressed" Value="true">
                                 <Setter Property="Background" TargetName="border" Value="khaki"/>
-                                <Setter Property="BorderBrush" TargetName="border" Value="olivedrab"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="brown"/>
                             </Trigger>
                         </ControlTemplate.Triggers>
                     </ControlTemplate>
                 </Setter.Value>
             </Setter>
         </Style>
-       
+
+
     </Window.Resources>
 
 
     <Window.DataContext>
         <local:MainWindowVM/>
     </Window.DataContext>
-    <Grid Background="Beige" >
-        <StackPanel Background="Beige"  Margin="10">
-            <TextBlock FontSize ="30" FontWeight="Bold" Foreground="DarkCyan"
-                       HorizontalAlignment="Center" Padding="5" Text="STUDENTS"/>
-            <StackPanel Orientation="Horizontal" >
-                <TextBlock FontSize ="15" Foreground="DarkCyan"
-                        Margin="65 20 0 0" Padding="5" Text="First Name" Width="110"/>
-                <TextBlock FontSize ="15" Foreground="DarkCyan"
-                        Margin="10 20 0 0" Padding="5" Text="Last Name" Width="100"/>
-                <TextBlock FontSize ="15" Foreground="DarkCyan"
-                        Margin="10 20 0 0" Padding="5" Text="Date of Birth" Width="110"/>
-                <TextBlock FontSize ="15" Foreground="DarkCyan"
-                        Margin="10 20 0 0" Padding="5" Text="TelePhone No" Width="120"/>
-                <TextBlock FontSize ="15" Foreground="DarkCyan"
-                        Margin="10 20 0 0" Padding="5" Text="GPA" Width="100"/>
+    <Border  BorderBrush= "Teal " BorderThickness="2" >
+
+
+        <Grid  ScrollViewer.HorizontalScrollBarVisibility="Visible" Cursor="Arrow">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="9*"/>
+                <ColumnDefinition Width="23*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Style>
+                <Style/>
+            </Grid.Style>
+
+
+
+            <StackPanel Orientation="Vertical" Grid.Column="1">
+
+                <StackPanel.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="DarkGreen" Offset="1"/>
+                        <GradientStop Color="Green" Offset="1"/>
+                        <GradientStop Color="LightGreen" Offset="0.2"/>
+                        <GradientStop Color="Yellow" Offset="0.4"/>
+                        <GradientStop Color="Orange" Offset="0.8"/>
+                    </LinearGradientBrush>
+                </StackPanel.Background>
+
+                <DockPanel  Height="30" VerticalAlignment="Top">
+                    
+                    <Button Width="30" Background="Green" Height="25" DockPanel.Dock="Right" VerticalContentAlignment="Top"
+                            HorizontalAlignment="Right" HorizontalContentAlignment="Center" Margin="0,2,5,0" Content="X" Click="CloseButton_Click"/>
+                    <Button Width="30" Background="Green" Height="25" DockPanel.Dock="Right" VerticalContentAlignment="Top" 
+        HorizontalAlignment="Right" HorizontalContentAlignment="Center" Margin="0,2,5,0" Content="_" Click="MinimizeButton_Click"/>
+                </DockPanel>
+
+
+
+                <StackPanel Orientation="Horizontal"  >
+                    <StackPanel  Margin="10" HorizontalAlignment="Left" Width="620" >
+                        <StackPanel Orientation="Horizontal" >
+                            <TextBlock FontSize ="15" Foreground="DarkCyan" FontFamily="Optima"
+FontWeight="Bold"
+                 Margin="65 60 0 0" Padding="5" Text="First Name" Width="110"/>
+                            <TextBlock FontSize ="15" Foreground="DarkCyan" FontFamily="Optima"
+ FontWeight="Bold"
+                 Margin="10 60 0 0" Padding="5" Text="Last Name" Width="100"/>
+                            <TextBlock FontSize ="15" Foreground="DarkCyan" FontFamily="Optima"
+ FontWeight="Bold"
+                 Margin="10 60 0 0" Padding="5" Text="Date of Birth" Width="110"/>
+                            <TextBlock FontSize ="15" Foreground="DarkCyan" FontFamily="Optima"
+ FontWeight="Bold"
+                 Margin="10 60 0 0" Padding="5" Text="TelePhone No" Width="120"/>
+                            <TextBlock FontSize ="15" Foreground="DarkCyan" FontFamily="Optima"
+ FontWeight="Bold"
+                 Margin="10 60 0 0" Padding="5" Text="GPA" Width="100"/>
+                        </StackPanel>
+                        <ListView ItemsSource="{Binding Students, UpdateSourceTrigger=PropertyChanged}"
+               Background="Transparent"  SelectedItem="{Binding Selected}">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <Border BorderBrush="Black" 
+                         BorderThickness="1"
+                         CornerRadius="8"
+                         Padding="3" Margin="4">
+                                        <StackPanel Orientation="Horizontal" Width="580" Height="30">
+                                            <Image Source="{Binding ImageURL}" Width="60"/>
+                                            <TextBlock Text="{Binding FirstName}" Margin="5" FontSize="15" FontWeight="Bold" Width="100"/>
+                                            <TextBlock Text="{Binding LastName}" Margin="5" FontSize="15" FontWeight="Bold" Width="100"/>
+                                            <TextBlock Text="{Binding DateOfBirth}" Margin="5" FontSize="15" FontWeight="Bold" Width="110"/>
+                                            <TextBlock Text="{Binding TelephoneNo}" Margin="5" FontSize="15" FontWeight="Bold" Width="120"/>
+                                            <TextBlock Text="{Binding GpaValue}" Margin="5" FontSize="15" FontWeight="Bold" Width="100"/>
+                                        </StackPanel>
+                                    </Border>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackPanel>
+
+
+
+                </StackPanel>
+
             </StackPanel>
-            <ListView ItemsSource="{Binding Students,UpdateSourceTrigger=PropertyChanged}"
-                      Background="Beige"  SelectedItem="{Binding Selected}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <Border BorderBrush="Black" 
-                                BorderThickness="1"
-                                CornerRadius="8"
-                                Padding="3" Margin="4">
-                            <StackPanel Orientation="Horizontal" Width="580" Height="30">
-                                <Image Source="{Binding ImageURL}" Width="60"/>
-                                <TextBlock Text="{Binding FirstName}" Margin="5" FontSize="15" Width="100"/>
-                                <TextBlock Text="{Binding LastName}" Margin="5" FontSize="15" Width="100"/>
-                                <TextBlock Text="{Binding DateOfBirth}" Margin="5" FontSize="15" Width="110"/>
-                                <TextBlock Text="{Binding TelephoneNo}" Margin="5" FontSize="15" Width="120"/>
-                                <TextBlock Text="{Binding GpaValue}" Margin="5" FontSize="15" Width="100"/>
-                            </StackPanel>
-                        </Border>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </StackPanel>
 
-        
-        <StackPanel Orientation="Horizontal" Background="Beige" HorizontalAlignment="Center"  Height="80" VerticalAlignment="Bottom" Margin="10 0 10 40" >
-            
+            <StackPanel Grid.Column="0" Background="green" >
 
-            <Button Content="Add Student" 
-                    Margin="20 15 10 15" Padding="8" FontSize="20" Width="200"
-                    Height="45" Command="{Binding AddStudentCommand}" Style="{StaticResource RoundedButtonStyle}"/>
-            
-                <Button Content="Edit Student" 
-                     Margin="10 15 10 15" Padding="8" FontSize="20" Width="200"
+                <StackPanel>
+                    <TextBlock FontSize ="25" FontWeight="Bold" FontFamily="Castellar" Foreground="Black"
+HorizontalAlignment="center"  Padding="5" Text="STUDENTS " Width="169" Height="44"/>
+                    <TextBlock FontSize ="25" FontWeight="Bold" FontFamily="Castellar" Foreground="Black"
+HorizontalAlignment="center"  Padding="5" Text="INFORMATION  " Width="222" Height="44"/>
+                </StackPanel>
+
+
+                <StackPanel Orientation="Vertical"  VerticalAlignment="Center" Height="200" >
+
+                    <Button Content="Add Student" 
+                    Margin="10 30 10 5" Padding="8" FontWeight="DemiBold" FontSize="20" Width="180"
+                    Height="45" Command="{Binding AddStudentCommand}" Style="{StaticResource RoundedButtonStyle}"  />
+
+                    <Button Content="Edit Student" 
+                     Margin="10 5 10 5" Padding="8" FontSize="20" FontWeight="DemiBold" Width="180"
                      Height="45" Command="{Binding EditStudentCommand}" Style="{StaticResource RoundedButtonStyle}"/>
-            
-                <Button Content="Delete Student" 
-                    Margin="10 15 20 15"  Padding="8" FontSize="20" Width="200"
+
+                    <Button Content="Delete Student" 
+                    Margin="10 5 10 5"  Padding="8" FontSize="20" FontWeight="DemiBold" Width="180"
                     Height="45" Command="{Binding DeleteStudentCommand}" Style="{StaticResource RoundedButtonStyle}"/>
-                       
-        </StackPanel>
-       
-    </Grid>
+
+                </StackPanel>
+                <Image Source="/images/3.png" Stretch="Fill" Height="226" ClipToBounds="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" />
+
+
+            </StackPanel>
+
+
+        </Grid>
+    </Border>
 </Window>

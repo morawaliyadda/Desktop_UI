@@ -31,9 +31,17 @@ namespace Wpf_Dekstop_UI
 
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void MinimizeButton_Click(object sender, RoutedEventArgs e)
         {
-            
+            WindowState = WindowState.Minimized;
         }
+
+        private void CloseButton_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+
+
+
     }
 }

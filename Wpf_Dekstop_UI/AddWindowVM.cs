@@ -90,8 +90,15 @@ namespace Wpf_Dekstop_UI
                 CloseWindow();
             }
 
+            this.CloseWindow();
+           
 
-            
+           
+
+
+
+
+
         }
     }
 }

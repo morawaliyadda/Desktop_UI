@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_Dekstop_UI"
         mc:Ignorable="d"
-        Title="AddWindow" Height="600" Width="600">
+        WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Title="AddWindow" Height="700" Width="700">
     <Window.Resources>
         <Style TargetType="Button" x:Key="RoundedButtonStyle">
             <Setter Property="Template">
@@ -37,46 +38,71 @@
     <Window.DataContext>
         <local:AddWindowVM/>
     </Window.DataContext>
-    <Grid  Background="Beige">
-      <StackPanel Margin="40 20" >
-        <TextBlock Text="ADD STUDENT" FontSize="30" FontWeight="Bold"
-                   HorizontalAlignment="center" Padding="10" Foreground="DarkCyan" />
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="First Name" FontSize="15" Margin="10 20 0 0" Width="150" />
-                <TextBox Padding="10"  Margin="0 20 20 0" FontSize="15" Width="300" Text="{Binding FirstName,UpdateSourceTrigger=PropertyChanged}"/>
-            </StackPanel>
+    <Border  BorderBrush="teal" BorderThickness="2" >
+        <Grid >
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Last Name" FontSize="15" Margin="10 15 0 0" Width="150" />
-                <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="300" Text="{Binding LastName,UpdateSourceTrigger=PropertyChanged}"/>
-            </StackPanel>
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="Green" Offset="0"/>
+                    <GradientStop Color="LightGreen" Offset="0.2"/>
+                    <GradientStop Color="Yellow" Offset="0.4"/>
+                    <GradientStop Color="DarkGreen" Offset="0.6"/>
+                    <GradientStop Color="Orange" Offset="0.8"/>
+                </LinearGradientBrush>
+            </Grid.Background>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Date of Birth" FontSize="15" Margin="10 15 0 0" Width="150"/>
-                <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="300" Text="{Binding DateOfBirth,UpdateSourceTrigger=PropertyChanged}"/>
-            </StackPanel>
+            <DockPanel  Height="30" VerticalAlignment="Top">
+               
+                <Button Width="30" Background="Green" Height="25" DockPanel.Dock="Right" VerticalContentAlignment="Top" HorizontalAlignment="Right" 
+                        HorizontalContentAlignment="Center" Margin="0,2,5,0" Content="X" Click="CloseButton_Click"/>
+                <Button Width="30" Background="Green" Height="25" DockPanel.Dock="Right" VerticalContentAlignment="Top" HorizontalAlignment="Right"
+                        HorizontalContentAlignment="Center" Margin="0,2,5,0" Content="_" Click="MinimizeButton_Click"/>
+            </DockPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="GPA Value" FontSize="15" Margin="10 15 0 0" Width="150" />
-                <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="300" Text="{Binding GpaValue}"/>
-            </StackPanel>
+            <StackPanel Margin="40 20" >
+                <TextBlock Text="ADD STUDENT" FontFamily="Castellar" FontSize="45" FontWeight="Bold"
+                   HorizontalAlignment="center" Padding="35" Foreground="DarkCyan" />
+                <StackPanel Orientation="Horizontal" >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="First Name" FontSize="15" Margin="10 20 0 0" Width="150" />
+                        <TextBox Padding="10"  Margin="0 20 20 0" FontSize="15" Width="150" Text="{Binding FirstName,UpdateSourceTrigger=PropertyChanged}"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Last Name" FontSize="15" Margin="0 25 0 0" Width="80" />
+                        <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="150" Text="{Binding LastName,UpdateSourceTrigger=PropertyChanged}"/>
+                    </StackPanel>
 
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Telephone No." FontSize="15" Margin="10 15 0 0" Width="150" />
-                <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="300" Text="{Binding TelephoneNo,UpdateSourceTrigger=PropertyChanged}"/>
-            </StackPanel>
-          
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Image No(as x.png)" FontSize="15" Margin="10 15 0 0" Width="150" />
-                <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="300" Text="{Binding ImageNo,UpdateSourceTrigger=PropertyChanged}"/>
-            </StackPanel>
+                </StackPanel>
 
-            <Button   Content="Save"  HorizontalAlignment="center" FontSize="20" Width="200"  Margin="50" Height="40" 
+
+
+                <StackPanel Orientation="Horizontal" Margin="0 10">
+                    <TextBlock Text="Date of Birth" FontSize="15" Margin="10 15 0 0" Width="150"/>
+                    <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="400" Text="{Binding DateOfBirth,UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 10">
+                    <TextBlock Text="GPA Value" FontSize="15" Margin="10 15 0 0" Width="150" />
+                    <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="400" Text="{Binding GpaValue}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 10">
+                    <TextBlock Text="Telephone No." FontSize="15" Margin="10 15 0 0" Width="150" />
+                    <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="400" Text="{Binding TelephoneNo,UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 10">
+                    <TextBlock Text="Image No(as x.png)" FontSize="15" Margin="10 15 0 0" Width="150" />
+                    <TextBox Padding="10"  Margin="0 15 20 0" FontSize="15" Width="400" Text="{Binding ImageNo,UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+
+                <Button   Content="Save"  HorizontalAlignment="center" FontSize="20" Width="200"  Margin="50" Height="50" 
                       Command="{Binding AddStudentCommand}" Style="{StaticResource RoundedButtonStyle}" />
-        
 
-        </StackPanel>
-        
 
-    </Grid>
+            </StackPanel>
+
+
+        </Grid>
+    </Border>
 </Window>

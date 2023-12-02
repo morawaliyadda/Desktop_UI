@@ -28,10 +28,12 @@ namespace Wpf_Dekstop_UI
             var person = new AddWindowVM();
             AddWindow window = new AddWindow(person);
             window.ShowDialog();
+            
             if (person.Std1.FirstName != null)
             {
                 students.Add(person.Std1);
             }
+           
         }
 
         [RelayCommand]
